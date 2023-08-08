@@ -1,4 +1,4 @@
-# Getting Started with Spanish Memory Game
+# Getting Started with Learning Spanish Memory Game
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
